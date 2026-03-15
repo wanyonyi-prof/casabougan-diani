@@ -1,0 +1,19 @@
+:root {
+  /* Image paths */
+  --image-hero-1: url('/images/hero/hero1.jpg');
+  --image-hero-2: url('/images/hero/hero2.jpg');
+  --image-hero-3: url('/images/hero/hero3.jpg');
+  
+  --image-studio: url('/images/apartments/studio.jpg');
+  --image-1bed: url('/images/apartments/1bedroom.jpg');
+  --image-2bed: url('/images/apartments/2bedroom.jpg');
+  
+  --image-gallery-room1: url('/gallery/room1.jpg');
+  --image-gallery-room2: url('/gallery/room2.jpg');
+  --image-gallery-pool: url('/gallery/pool.jpg');
+  --image-gallery-garden: url('/gallery/garden.jpg');
+  --image-gallery-beach: url('/gallery/beach.jpg');
+  
+  /* Video paths */
+  --video-tour: url('/videos/apartment-tour.mp4');
+}
