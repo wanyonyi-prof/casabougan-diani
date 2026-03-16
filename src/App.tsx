@@ -104,7 +104,7 @@ function App() {
 
       <footer className="bg-palm-dark text-white/80 py-8">
         <div className="container-custom text-center">
-          <p>© 2024 Casabougan Apartments Diani. All rights reserved.</p>
+          <p>© 2026 Casabougan Apartments Diani. All rights reserved.</p>
           <p className="text-sm mt-2">Diani Beach Road, Mombasa, Kenya</p>
         </div>
       </footer>
